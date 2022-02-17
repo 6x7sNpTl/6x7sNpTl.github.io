@@ -1,0 +1,1034 @@
+{
+  "Calculators": [
+    {
+      "Id": 0,
+      "CalculatorType": 0
+    },
+    {
+      "Id": 1,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.2,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 2,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.5,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 3,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 1.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 4,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 2.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 5,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 1.7976931348623157E+308,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 6,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.1
+    },
+    {
+      "Id": 7,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.5
+    },
+    {
+      "Id": 8,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 9,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.3,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 10,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.5,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 11,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 1.0,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 12,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.0,
+      "MinimalVolume": 0.01
+    },
+    {
+      "Id": 13,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.0,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 14,
+      "CalculatorType": 3,
+      "Density": 7850.0
+    },
+    {
+      "Id": 15,
+      "CalculatorType": 3,
+      "Density": 7930.0
+    }
+  ],
+  "Mapping": [
+    {
+      "MeasurementDefId": 6,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 155,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 158,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 160,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 191,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 192,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 219,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 231,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 235,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 237,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 256,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 260,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 291,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 297,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 298,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 299,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 317,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 349,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 350,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 353,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 354,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 410,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 442,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 445,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 446,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 447,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 448,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 449,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 450,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 455,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 456,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 458,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 459,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 462,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 465,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 467,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 469,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 471,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 473,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 501,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 504,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 510,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 514,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 515,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 520,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 546,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 548,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 549,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 551,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 609,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 610,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 611,
+      "CalculatorId": 0
+    },
+    {
+      "MeasurementDefId": 179,
+      "CalculatorId": 1
+    },
+    {
+      "MeasurementDefId": 35,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 36,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 124,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 135,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 140,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 141,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 142,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 143,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 150,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 151,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 176,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 177,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 178,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 214,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 222,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 223,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 232,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 233,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 234,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 321,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 324,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 332,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 333,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 337,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 405,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 406,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 407,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 408,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 409,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 413,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 417,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 421,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 424,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 426,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 433,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 434,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 435,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 436,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 437,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 438,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 439,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 599,
+      "CalculatorId": 2
+    },
+    {
+      "MeasurementDefId": 25,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 29,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 31,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 147,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 303,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 334,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 338,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 340,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 342,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 346,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 587,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 590,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 591,
+      "CalculatorId": 3
+    },
+    {
+      "MeasurementDefId": 589,
+      "CalculatorId": 4
+    },
+    {
+      "MeasurementDefId": 415,
+      "CalculatorId": 5
+    },
+    {
+      "MeasurementDefId": 423,
+      "CalculatorId": 5
+    },
+    {
+      "MeasurementDefId": 183,
+      "CalculatorId": 6
+    },
+    {
+      "MeasurementDefId": 441,
+      "CalculatorId": 6
+    },
+    {
+      "MeasurementDefId": 420,
+      "CalculatorId": 7
+    },
+    {
+      "MeasurementDefId": 10,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 28,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 38,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 42,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 67,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 68,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 95,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 104,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 106,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 145,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 149,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 188,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 206,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 236,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 238,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 242,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 247,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 280,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 281,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 283,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 285,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 287,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 288,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 289,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 290,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 305,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 306,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 307,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 308,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 309,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 310,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 312,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 315,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 343,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 344,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 355,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 356,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 366,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 367,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 368,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 377,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 379,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 381,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 383,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 389,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 432,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 454,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 581,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 583,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 585,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 588,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 607,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 608,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 615,
+      "CalculatorId": 8
+    },
+    {
+      "MeasurementDefId": 132,
+      "CalculatorId": 9
+    },
+    {
+      "MeasurementDefId": 133,
+      "CalculatorId": 9
+    },
+    {
+      "MeasurementDefId": 136,
+      "CalculatorId": 9
+    },
+    {
+      "MeasurementDefId": 169,
+      "CalculatorId": 9
+    },
+    {
+      "MeasurementDefId": 170,
+      "CalculatorId": 9
+    },
+    {
+      "MeasurementDefId": 172,
+      "CalculatorId": 9
+    },
+    {
+      "MeasurementDefId": 173,
+      "CalculatorId": 9
+    },
+    {
+      "MeasurementDefId": 220,
+      "CalculatorId": 10
+    },
+    {
+      "MeasurementDefId": 224,
+      "CalculatorId": 10
+    },
+    {
+      "MeasurementDefId": 22,
+      "CalculatorId": 11
+    },
+    {
+      "MeasurementDefId": 23,
+      "CalculatorId": 11
+    },
+    {
+      "MeasurementDefId": 24,
+      "CalculatorId": 11
+    },
+    {
+      "MeasurementDefId": 181,
+      "CalculatorId": 12
+    },
+    {
+      "MeasurementDefId": 185,
+      "CalculatorId": 12
+    },
+    {
+      "MeasurementDefId": 189,
+      "CalculatorId": 12
+    },
+    {
+      "MeasurementDefId": 19,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 71,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 73,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 76,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 77,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 80,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 81,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 82,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 83,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 85,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 89,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 90,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 91,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 92,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 93,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 94,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 99,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 107,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 109,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 117,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 118,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 123,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 126,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 134,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 139,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 146,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 171,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 187,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 213,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 216,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 217,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 226,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 227,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 228,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 229,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 244,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 277,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 292,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 295,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 296,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 603,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 604,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 605,
+      "CalculatorId": 13
+    },
+    {
+      "MeasurementDefId": 101,
+      "CalculatorId": 14
+    },
+    {
+      "MeasurementDefId": 249,
+      "CalculatorId": 14
+    },
+    {
+      "MeasurementDefId": 253,
+      "CalculatorId": 14
+    },
+    {
+      "MeasurementDefId": 255,
+      "CalculatorId": 14
+    },
+    {
+      "MeasurementDefId": 257,
+      "CalculatorId": 14
+    },
+    {
+      "MeasurementDefId": 250,
+      "CalculatorId": 15
+    },
+    {
+      "MeasurementDefId": 254,
+      "CalculatorId": 15
+    },
+    {
+      "MeasurementDefId": 259,
+      "CalculatorId": 15
+    }
+  ]
+}
