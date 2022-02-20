@@ -1,0 +1,2298 @@
+{
+  "Calculators": [
+    {
+      "Id": 0,
+      "CalculatorType": 0
+    },
+    {
+      "Id": 1,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.2,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 2,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.5,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 3,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 1.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 4,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 2.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 5,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 1.7976931348623157E+308,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 6,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.1
+    },
+    {
+      "Id": 7,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.5
+    },
+    {
+      "Id": 8,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 9,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.3,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 10,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.5,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 11,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 1.0,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 12,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.0,
+      "MinimalVolume": 0.01
+    },
+    {
+      "Id": 13,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.0,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 14,
+      "CalculatorType": 3,
+      "Density": 7850.0
+    },
+    {
+      "Id": 15,
+      "CalculatorType": 3,
+      "Density": 7930.0
+    }
+  ],
+  "CalculatorMapping": [
+    {
+      "CodeId": 6,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 155,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 158,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 160,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 191,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 192,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 219,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 231,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 235,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 237,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 256,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 260,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 291,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 297,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 298,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 299,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 317,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 349,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 350,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 353,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 354,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 410,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 442,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 445,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 446,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 447,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 448,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 449,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 450,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 455,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 456,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 458,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 459,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 462,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 465,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 467,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 469,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 471,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 473,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 501,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 504,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 510,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 514,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 515,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 520,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 546,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 548,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 549,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 551,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 609,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 610,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 611,
+      "CalculatorId": 0
+    },
+    {
+      "CodeId": 179,
+      "CalculatorId": 1
+    },
+    {
+      "CodeId": 35,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 36,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 124,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 135,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 140,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 141,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 142,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 143,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 150,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 151,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 176,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 177,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 178,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 214,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 222,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 223,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 232,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 233,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 234,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 321,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 324,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 332,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 333,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 337,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 405,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 406,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 407,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 408,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 409,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 413,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 417,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 421,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 424,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 426,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 433,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 434,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 435,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 436,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 437,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 438,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 439,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 599,
+      "CalculatorId": 2
+    },
+    {
+      "CodeId": 25,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 29,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 31,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 147,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 303,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 334,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 338,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 340,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 342,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 346,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 587,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 590,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 591,
+      "CalculatorId": 3
+    },
+    {
+      "CodeId": 589,
+      "CalculatorId": 4
+    },
+    {
+      "CodeId": 415,
+      "CalculatorId": 5
+    },
+    {
+      "CodeId": 423,
+      "CalculatorId": 5
+    },
+    {
+      "CodeId": 183,
+      "CalculatorId": 6
+    },
+    {
+      "CodeId": 441,
+      "CalculatorId": 6
+    },
+    {
+      "CodeId": 420,
+      "CalculatorId": 7
+    },
+    {
+      "CodeId": 10,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 28,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 38,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 42,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 67,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 68,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 95,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 104,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 106,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 145,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 149,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 188,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 206,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 236,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 238,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 242,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 247,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 280,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 281,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 283,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 285,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 287,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 288,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 289,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 290,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 305,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 306,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 307,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 308,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 309,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 310,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 312,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 315,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 343,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 344,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 355,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 356,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 366,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 367,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 368,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 377,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 379,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 381,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 383,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 389,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 432,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 454,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 581,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 583,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 585,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 588,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 607,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 608,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 615,
+      "CalculatorId": 8
+    },
+    {
+      "CodeId": 132,
+      "CalculatorId": 9
+    },
+    {
+      "CodeId": 133,
+      "CalculatorId": 9
+    },
+    {
+      "CodeId": 136,
+      "CalculatorId": 9
+    },
+    {
+      "CodeId": 169,
+      "CalculatorId": 9
+    },
+    {
+      "CodeId": 170,
+      "CalculatorId": 9
+    },
+    {
+      "CodeId": 172,
+      "CalculatorId": 9
+    },
+    {
+      "CodeId": 173,
+      "CalculatorId": 9
+    },
+    {
+      "CodeId": 220,
+      "CalculatorId": 10
+    },
+    {
+      "CodeId": 224,
+      "CalculatorId": 10
+    },
+    {
+      "CodeId": 22,
+      "CalculatorId": 11
+    },
+    {
+      "CodeId": 23,
+      "CalculatorId": 11
+    },
+    {
+      "CodeId": 24,
+      "CalculatorId": 11
+    },
+    {
+      "CodeId": 181,
+      "CalculatorId": 12
+    },
+    {
+      "CodeId": 185,
+      "CalculatorId": 12
+    },
+    {
+      "CodeId": 189,
+      "CalculatorId": 12
+    },
+    {
+      "CodeId": 19,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 71,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 73,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 76,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 77,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 80,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 81,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 82,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 83,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 85,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 89,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 90,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 91,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 92,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 93,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 94,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 99,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 107,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 109,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 117,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 118,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 123,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 126,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 134,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 139,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 146,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 171,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 187,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 213,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 216,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 217,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 226,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 227,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 228,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 229,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 244,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 277,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 292,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 295,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 296,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 603,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 604,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 605,
+      "CalculatorId": 13
+    },
+    {
+      "CodeId": 101,
+      "CalculatorId": 14
+    },
+    {
+      "CodeId": 249,
+      "CalculatorId": 14
+    },
+    {
+      "CodeId": 253,
+      "CalculatorId": 14
+    },
+    {
+      "CodeId": 255,
+      "CalculatorId": 14
+    },
+    {
+      "CodeId": 257,
+      "CalculatorId": 14
+    },
+    {
+      "CodeId": 250,
+      "CalculatorId": 15
+    },
+    {
+      "CodeId": 254,
+      "CalculatorId": 15
+    },
+    {
+      "CodeId": 259,
+      "CalculatorId": 15
+    }
+  ],
+  "UnitMapping": [
+    {
+      "UnitMeasId": 4,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 13,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 48,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 50,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 53,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 55,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 57,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 59,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 61,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 63,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 64,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 110,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 112,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 121,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 137,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 144,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 159,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 195,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 218,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 273,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 348,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 351,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 352,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 374,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 375,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 403,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 427,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 428,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 429,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 430,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 477,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 479,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 482,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 485,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 486,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 488,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 489,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 490,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 494,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 495,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 496,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 497,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 511,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 512,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 525,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 527,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 529,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 530,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 533,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 540,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 542,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 543,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 544,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 545,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 547,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 555,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 556,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 557,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 561,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 567,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 568,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 570,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 572,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 573,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 574,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 576,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 577,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 600,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 613,
+      "UnitId": 29
+    },
+    {
+      "UnitMeasId": 241,
+      "UnitId": 8
+    },
+    {
+      "UnitMeasId": 9,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 27,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 182,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 221,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 279,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 282,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 311,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 318,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 322,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 335,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 341,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 345,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 584,
+      "UnitId": 7
+    },
+    {
+      "UnitMeasId": 11,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 96,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 127,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 152,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 157,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 162,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 165,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 167,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 168,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 193,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 245,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 284,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 286,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 328,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 358,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 365,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 402,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 443,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 498,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 506,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 516,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 522,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 524,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 526,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 528,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 593,
+      "UnitId": 0
+    },
+    {
+      "UnitMeasId": 243,
+      "UnitId": 15
+    },
+    {
+      "UnitMeasId": 15,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 17,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 69,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 84,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 98,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 102,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 103,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 108,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 113,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 116,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 119,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 120,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 122,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 125,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 130,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 138,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 180,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 212,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 215,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 225,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 275,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 592,
+      "UnitId": 14
+    },
+    {
+      "UnitMeasId": 86,
+      "UnitId": 22
+    },
+    {
+      "UnitMeasId": 100,
+      "UnitId": 20
+    },
+    {
+      "UnitMeasId": 198,
+      "UnitId": 20
+    },
+    {
+      "UnitMeasId": 201,
+      "UnitId": 20
+    },
+    {
+      "UnitMeasId": 263,
+      "UnitId": 20
+    },
+    {
+      "UnitMeasId": 276,
+      "UnitId": 20
+    },
+    {
+      "UnitMeasId": 360,
+      "UnitId": 20
+    }
+  ],
+  "TypeMapping": [
+    {
+      "MeasureTypeId": 18,
+      "CostCalculationId": 3
+    },
+    {
+      "MeasureTypeId": 202,
+      "CostCalculationId": 3
+    },
+    {
+      "MeasureTypeId": 361,
+      "CostCalculationId": 3
+    },
+    {
+      "MeasureTypeId": 376,
+      "CostCalculationId": 3
+    },
+    {
+      "MeasureTypeId": 419,
+      "CostCalculationId": 3
+    },
+    {
+      "MeasureTypeId": 5,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 12,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 21,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 41,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 43,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 70,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 75,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 79,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 131,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 174,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 196,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 197,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 248,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 336,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 416,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 531,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 541,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 550,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 552,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 586,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 597,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 606,
+      "CostCalculationId": 0
+    },
+    {
+      "MeasureTypeId": 14,
+      "CostCalculationId": 1
+    },
+    {
+      "MeasureTypeId": 26,
+      "CostCalculationId": 1
+    },
+    {
+      "MeasureTypeId": 65,
+      "CostCalculationId": 1
+    },
+    {
+      "MeasureTypeId": 261,
+      "CostCalculationId": 1
+    },
+    {
+      "MeasureTypeId": 411,
+      "CostCalculationId": 1
+    },
+    {
+      "MeasureTypeId": 519,
+      "CostCalculationId": 1
+    },
+    {
+      "MeasureTypeId": 521,
+      "CostCalculationId": 1
+    },
+    {
+      "MeasureTypeId": 553,
+      "CostCalculationId": 1
+    },
+    {
+      "MeasureTypeId": 1,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 2,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 3,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 7,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 8,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 20,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 30,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 32,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 33,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 34,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 37,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 39,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 40,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 44,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 45,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 46,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 47,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 49,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 51,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 52,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 54,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 56,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 58,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 60,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 62,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 72,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 74,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 78,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 148,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 161,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 164,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 204,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 205,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 207,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 208,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 209,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 210,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 251,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 252,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 258,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 262,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 264,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 265,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 266,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 267,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 268,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 269,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 270,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 271,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 272,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 274,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 278,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 294,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 304,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 314,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 325,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 326,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 327,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 329,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 339,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 347,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 357,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 371,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 372,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 373,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 378,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 380,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 382,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 384,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 385,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 386,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 387,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 388,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 390,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 391,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 392,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 393,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 394,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 395,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 396,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 397,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 398,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 400,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 401,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 404,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 422,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 425,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 431,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 444,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 451,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 452,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 453,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 457,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 460,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 461,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 463,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 464,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 466,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 468,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 470,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 472,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 478,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 480,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 481,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 484,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 487,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 491,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 492,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 493,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 499,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 500,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 503,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 507,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 513,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 518,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 523,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 532,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 534,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 535,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 536,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 537,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 538,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 539,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 554,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 558,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 559,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 560,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 562,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 563,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 564,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 565,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 566,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 569,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 571,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 575,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 578,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 579,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 580,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 596,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 601,
+      "CostCalculationId": 2
+    },
+    {
+      "MeasureTypeId": 602,
+      "CostCalculationId": 2
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "Units": [
+    {
+      "Id": 0,
+      "Name": "Meter",
+      "Label": "m",
+      "UnitMeasure": 0,
+      "Scale": 1.0
+    },
+    {
+      "Id": 1,
+      "Name": "Decimeter",
+      "Label": "dm",
+      "UnitMeasure": 0,
+      "Scale": 0.1
+    },
+    {
+      "Id": 2,
+      "Name": "Centimeter",
+      "Label": "cm",
+      "UnitMeasure": 0,
+      "Scale": 0.01
+    },
+    {
+      "Id": 3,
+      "Name": "Millimeter",
+      "Label": "mm",
+      "UnitMeasure": 0,
+      "Scale": 0.001
+    },
+    {
+      "Id": 4,
+      "Name": "Kilometer",
+      "Label": "km",
+      "UnitMeasure": 0,
+      "Scale": 1000.0
+    },
+    {
+      "Id": 5,
+      "Name": "Inch",
+      "Label": "in",
+      "UnitMeasure": 0,
+      "Scale": 0.0254
+    },
+    {
+      "Id": 6,
+      "Name": "Foot",
+      "Label": "ft",
+      "UnitMeasure": 0,
+      "Scale": 0.3048
+    },
+    {
+      "Id": 7,
+      "Name": "Square Meter",
+      "Label": "m^2",
+      "UnitMeasure": 1,
+      "Scale": 1.0
+    },
+    {
+      "Id": 8,
+      "Name": "Square Decimeter",
+      "Label": "dm^2",
+      "UnitMeasure": 1,
+      "Scale": 0.01
+    },
+    {
+      "Id": 9,
+      "Name": "Square Centimeter",
+      "Label": "cm^2",
+      "UnitMeasure": 1,
+      "Scale": 0.0001
+    },
+    {
+      "Id": 10,
+      "Name": "Square Millimeter",
+      "Label": "mm^2",
+      "UnitMeasure": 1,
+      "Scale": 1E-06
+    },
+    {
+      "Id": 11,
+      "Name": "Square Kilometer",
+      "Label": "km^2",
+      "UnitMeasure": 1,
+      "Scale": 1000000.0
+    },
+    {
+      "Id": 12,
+      "Name": "Square Inch",
+      "Label": "in^2",
+      "UnitMeasure": 1,
+      "Scale": 0.00064516
+    },
+    {
+      "Id": 13,
+      "Name": "Square Foot",
+      "Label": "ft^2",
+      "UnitMeasure": 1,
+      "Scale": 0.092903
+    },
+    {
+      "Id": 14,
+      "Name": "Cubic Meter",
+      "Label": "m^3",
+      "UnitMeasure": 2,
+      "Scale": 1.0
+    },
+    {
+      "Id": 15,
+      "Name": "Cubic Decimeter",
+      "Label": "dm^3",
+      "UnitMeasure": 2,
+      "Scale": 0.001
+    },
+    {
+      "Id": 16,
+      "Name": "Cubic Centimeter",
+      "Label": "cm^3",
+      "UnitMeasure": 2,
+      "Scale": 1E-06
+    },
+    {
+      "Id": 17,
+      "Name": "Cubic Millimeter",
+      "Label": "mm^3",
+      "UnitMeasure": 2,
+      "Scale": 1E-09
+    },
+    {
+      "Id": 18,
+      "Name": "Cubic Inch",
+      "Label": "in^3",
+      "UnitMeasure": 2,
+      "Scale": 1.6387E-05
+    },
+    {
+      "Id": 19,
+      "Name": "Cubic Foot",
+      "Label": "ft^3",
+      "UnitMeasure": 2,
+      "Scale": 0.0283168
+    },
+    {
+      "Id": 20,
+      "Name": "Kilogram",
+      "Label": "kg",
+      "UnitMeasure": 3,
+      "Scale": 1.0
+    },
+    {
+      "Id": 21,
+      "Name": "Gram",
+      "Label": "g",
+      "UnitMeasure": 3,
+      "Scale": 0.001
+    },
+    {
+      "Id": 22,
+      "Name": "Ton",
+      "Label": "ton",
+      "UnitMeasure": 3,
+      "Scale": 1000.0
+    },
+    {
+      "Id": 23,
+      "Name": "Pound",
+      "Label": "lbs",
+      "UnitMeasure": 3,
+      "Scale": 0.45359237
+    },
+    {
+      "Id": 24,
+      "Name": "Ounce",
+      "Label": "oz",
+      "UnitMeasure": 3,
+      "Scale": 0.028349523125
+    },
+    {
+      "Id": 25,
+      "Name": "Second",
+      "Label": "s",
+      "UnitMeasure": 4,
+      "Scale": 1.0
+    },
+    {
+      "Id": 26,
+      "Name": "Minute",
+      "Label": "minute",
+      "UnitMeasure": 4,
+      "Scale": 60.0
+    },
+    {
+      "Id": 27,
+      "Name": "Hour",
+      "Label": "hour",
+      "UnitMeasure": 4,
+      "Scale": 3600.0
+    },
+    {
+      "Id": 28,
+      "Name": "Day",
+      "Label": "day",
+      "UnitMeasure": 4,
+      "Scale": 86400.0
+    },
+    {
+      "Id": 29,
+      "Name": "Count",
+      "Label": "",
+      "UnitMeasure": 5,
+      "Scale": 1.0
+    }
+  ]
+}
