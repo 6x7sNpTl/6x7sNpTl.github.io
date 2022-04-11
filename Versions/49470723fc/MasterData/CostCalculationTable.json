@@ -1,0 +1,740 @@
+{
+  "Items": [
+    {
+      "Id": 0,
+      "Name": "Fixed quantity",
+      "Label": "FH",
+      "Type": 0
+    },
+    {
+      "Id": 1,
+      "Name": "Global price",
+      "Label": "SOG",
+      "Type": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Implicit",
+      "Label": "PM",
+      "Type": 2
+    },
+    {
+      "Id": 3,
+      "Name": "Estimated quantity",
+      "Label": "VH",
+      "Type": 3
+    },
+    {
+      "Id": 4,
+      "Name": "Provisional sum",
+      "Label": "TVS",
+      "Type": 4
+    }
+  ],
+  "Mapping": [
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de aanneming. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijzen van alle respectievelijke uitvoeringsposten waarop het veiligheids- & gezondheidsplan betrekking heeft. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) / som over geheel (sog) ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). alle kosten zijn ten laste van de aanneming. de nodige borden, signalisatie, verlichting, overdekkingen, voetgangerspaden, taksen, enz. worden hierbij inbegrepen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) / vermoedelijke hoeveelheid (vh) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: som over geheel (sog) ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: vermoedelijke hoeveelheid (vh) ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de afbraakwerken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh)/ vermoedelijke hoeveelheid (vh) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: som over geheel (sog). ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de afbraak van de dakbedekking. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de afbraak van de dakbedekking of in de prijs van de nieuwe schoorsteenelementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de afbraak van de dakdichting. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de respectievelijk te vervangen ramen, deuren en/of poorten. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de respectievelijk te vervangen elementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de respectievelijk te vervangen binnenafwerking. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) / vermoedelijke hoeveelheid (vh). ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh). ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de voorziene vervanging van de vloerafwerking. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de voorziene vervanging van de binnendeuren. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de voorziene vervanging van de trappen en leuningen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de voorziene vervanging van de keukens. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de voorziene vervanging van het badkamermeubilair. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de vernieuwing van de sanitaire leidingen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de vervanging van de sanitaire toestellen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de vervanging van de radiatoren. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de vernieuwing van de gasinstallatie. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de vervanging van de cv-ketel & toebehoren. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de vernieuwing van het elektrische leidingnet. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). proef voor elke woning inbegrepen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: som over geheel (sog)/pro memorie (pm) ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh)/vermoedelijke hoeveelheid (vh) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). de graafwerken zijn begrepen in de eenheidsprijzen voor het leveren en plaatsen van deze elementen. de afvoer van de overtollige uitgegraven grond wordt apart gemeten onder artikels 10.43. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). de graafwerken zijn begrepen in de eenheidsprijzen voor het leveren en plaatsen van deze elementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst:\u000b(ofwel) forfaitaire hoeveelheid (fh) \u000b(ofwel) vermoedelijke hoeveelheid (vh). de uitgegraven hoeveelheden zijn enkel in de diepte voor verrekening vatbaar, niet in de breedte. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). de graafwerken en wederaanvullingen van de sleuven zijn standaard inbegrepen in de eenheidsprijzen voor het leveren en plaatsen van deze elementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh)/vermoedelijke hoeveelheid (vh). ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van overeenkomst: forfaitaire hoeveelheid (fh) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). de werken moeten inbegrepen zijn in de posten van de draagvloer op volle grond, algemene funderingsplaat, plaat op putten en/of vloerisolatie. ze worden niet afzonderlijk opgemeten. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de aansluitingen ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van het metselwerk. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van overeenkomst: forfaitaire hoeveelheid (fh) / vermoedelijke hoeveelheid (vh) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) specificaties geschikt voor: ventilatie: afzonderlijke kanalen / shunt-systeem / … type: enkelwandig / dubbelwandig / dubbelwandig geïsoleerd / ... volumemassa: circa 1800 / … kg/m3 gemiddelde drukweerstand: minimum 15 / … n/mm2 aantal kanalen / aansluitingen: enkel / dubbel / meervoudig / … kanaal binnenafmetingen van de respectievelijke kanalen zijn aangepast aan de toepassing en volgens: studie leverancier / volgens aanduidingen op plan / … x … / … buitenafmetingen volgens: studie leverancier / plannen / … aanvullende specificaties (te schrappen door ontwerper indien niet van toepassing) levering en plaatsing van regelbare afvoerroosters, inclusief alle verbindingselementen met de modulaire kanalen / … het systeem (kanalen, afvoeren,…) beschikt over een geldige atg-e, minimale reductiefactor freduc,vent: 0.8 / … aantal aansluitingen per niveau: 1 / … aantal aansluitingen per kanaal: 1 / 2 /… ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) specificaties geschikt voor ventilatie: afzonderlijke kanalen / shunt-systeem / … type: enkelwandig / dubbelwandig / dubbelwandig geïsoleerd / … volumemassa: circa 1.600 / … kg/m3 porositeit: minder dan 8 / … % aantal kanalen: enkel / dubbel / meervoudig / … kanaal binnenafmetingen van de respectievelijke kanalen zijn volgens aanduidingen op plan / volgens studie / …x... mm buitenafmetingen volgens: studie leverancier / plannen / … aanvullende specificaties (te schrappen door ontwerper indien niet van toepassing) levering en plaatsing van regelbare afvoerroosters, inclusief alle verbindingselementen met de modulaire kanalen / … aantal aansluitingen per niveau: 1 / … aantal aansluitingen per kanaal: 1 / 2 / … brandwerende isolatie: rotswol, densiteit min. 0,12 / ... kg/dm3, dikte 35 / 40 / 50 / … mm ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: vermoedelijke hoeveelheid (vh) / forfaitaire hoeveelheid (fh). ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de voorgespannen constructie-elementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de artikels van de constructie-elementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de constructie-elementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van het beton. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de montage van de constructie-elementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de te verbinden constructie-elementen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van het gevelmetselwerk. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van het gevelmetselwerk ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de balken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: som over het geheel (sog) voor de totaliteit van alle aan te brengen spandraadconstructies. ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de respectievelijke eenheidsprijs van de te behandelen profielen, inclusief de corrosiebescherming van de verbindingen en hulpstukken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de respectievelijke eenheidsprijs van de te behandelen profielen, inclusief de brandwerende bescherming van de verbindingen en hulpstukken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de respectievelijke eenheidsprijs van de te behandelen profielen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de respectievelijke eenheidsprijs van de behandelingen van de profielen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de houtskeletconstructie. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de wanden. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de wanden, vloeren en/of daken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de daken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de af te werken constructie. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de onderdelen van de houtskeletconstructie. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de vloeren en/of daken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van het hellend dak. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in art. 30.10. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) respectievelijk inbegrepen in de prijs van het onderdak en de dakbedekking. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de subartikels. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de door het hellend dak te voeren kanalen in deel 6. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van de te verankeren elementen ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie inbegrepen in de prijs van de dakbedekking. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie. inbegrepen in de prijs van de dakbedekking. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van de isolatieplaten en/of de dakdichting. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de door het platte dak te voeren kanalen in deel 6. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van de dakbedekking. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: vermoedelijke hoeveelheid (vh). ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van de  rw-afvoerbuizen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van de  rw-afvoerbuizen ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen bij de afwerking en aansluiting van de hemelwaterafvoervoorzieningen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: vermoedelijke hoeveelheid (vh). bij het niet uitvoeren van de proeven wordt deze post in mindering gebracht. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.11.11. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.11.21. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.11.31. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.11.41. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.12.11. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.12.21. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.12.31. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.12.41. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.13.11. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.13.21. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.13.31. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.13.41. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.14.11. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in subartikels 40.14.21. en volgende, opgesplitst volgens type beglazing, afmetingen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de profielen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van het buitenschrijnwerk. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van het schrijnwerk. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs per schrijnwerktype. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de buitenschrijnwerk. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van de voorziene gevelbekleding. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: som over geheel (sog). bordessen, treden, borstweringen, handgrepen en bevestiging aan ruwbouw en/of fundering inbegrepen. ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh). ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: vermoedelijke hoeveelheid (vh) ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de voorziene uitbekleding van de leidingkokers. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm).  inbegrepen in de eenheidsprijs van de plafonduitbekleding,  ter compensatie wordt de oppervlakte van de daklichtopeningen volgerekend. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van de dekvloer. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie. inbegrepen in de prijs van de vloerbekleding. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie(pm). inbegrepen in de eenheidsprijs van de deurkozijnen of deurgehelen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie(pm). inbegrepen in de prijs van de deurbladen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie(pm). inbegrepen in de prijs van de deurbladen of de deurgehelen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de deurbladen of deurgehelen ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de toegangsdeuren ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de toegangsdeuren of de deurbel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van de borstweringen en/of het trapgeheel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van de borstweringen en/of het trapgeheel. specificaties model: ter goedkeuring voor te leggen aan de architect / … sectie: rond / ellipsvormig / rechthoekig met afgeronde hoeken / vierkant met afgeronde hoeken / afmetingen: ...x… mm / rond, diameter 30 / 40 / ... mm staalsoort: roestvast staal aisi 316 (din 1.4401) / aisi 316l (din 1.4404) oppervlakte aspect: geborsteld / gepolijst / … wanddikte: minimum 1,5 / 2 / … mm ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de keukenmeubelen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de badkamermeubelen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm).  inbegrepen in de inbouwkasten. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs per brievenbuskastgeheel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de rubriek afvoerbuizen ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in artikelen 60.21 of 60.22. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de afnvoerbuizen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie. inbegrepen in de prijs van de aanvoerleidingen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de aanvoerleidingen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie. inbegrepen in de prijs van de kranen en/of meterstraat. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie. de eenheidsprijzen worden verrekend in de prijs van het leidingnet. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de toestellen en/of de dienstkranen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van het leidingnet. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de toestellen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de installatie. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie. inbegrepen in de prijs van de ketel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm).  inbegrepen in art. 66.16.10. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de levering van de slanghaspel en brandkraan ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: som over het geheel (sog) ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: som over geheel (2 proeven) ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de kanalen en/of toebehoren. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) specificaties type: opbouw / inbouw behuizing: isolerend kunststof /... deur: transparant / wit / … beschermingswaarde: minimaal ip 40-5 / ip 40-7 / ip 41-7 / ip 55-5 /... verbindingsrails: 3 fasen en nulgeleider / 2 fasen en nulgeleider / … bevestigingsplaat: niet voorzien / waterbestendige plaat, dikte 18 mm / ... ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs per verdeelbord. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in prijs van aardverbindingslus en/of aardverbinding. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van aardverbindingslus en/of aardverbinding. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie. inbegrepen in de prijs van de schakelaars, lichtpunten, stopcontacten en aansluitdozen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van de schakelaars, lichtpunten, stopcontacten en aansluitdozen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) standaard inbegrepen in de prijs van het te voorziene leidingnet voor schakelaars, stopcontacten, aansluitdozen, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) standaard inbegrepen in de prijs van de lift. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst, forfaitaire hoeveelheid (fh) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) specificaties behuizing: opbouw / inbouw / … lichtbron: tl / led / … afmetingen: volgens vereiste lichtsterkte beschermingsgraad: minimum ip-42 (wand of plafondmontage) / minimum ip-55 / … ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) specificaties behuizing: opbouw / inbouw / … afmetingen: volgens vereiste lichtsterkte beschermingsgraad: ip-42 (wand of plafondmontage) / ip-55 / … ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst : som over geheel (sog) ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm).  de kosten van de pictogrammen zijn inbegrepen in deze van de veiligheidsverlichting. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de kostprijs van de huisbel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de kostprijs van de huisbel.materiaal een beltransformator met aangepast vermogen wordt gemonteerd in de verdeelkast of is ingebouwd in de bel zelf. de beltransfo beantwoordt aan nbn en 61558-2-9, heeft een stofdichte, gegoten of ultrasoon gelaste behuizing en is bromvrij. de beltransformatoren zijn van het kortsluitvaste veiligheidstype, met ingebouwde zelfherstellende beveilliging. specificaties type: modulaire veiligheidstransfo (din-rail montage) / … vermogen: 12 v-6a / … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de kostprijs van de huisbel.materiaal de leidingen worden zoveel mogelijk in buizen gelegd. het trekken van draden van de belinstallatie in de buizen van andere geleiders is verboden. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm).inbegrepen in de kostprijs van de binnenposten. materiaal het deurstation is bestemd voor opstelling binnen / buiten het gebouw, te integreren per inkomhal op de plaats aangeduid op plan en te overleggen met het bestuur. ingeval van buitenopstelling is het geheel geschikt voor buitengebruik en weersbestendig. het deurstation wordt opgevat als een opbouwmodule / inbouwmodule te integreren in het inbouwmeubilair volgens artikel 57.40 parlofoonconsoles - algemeen. het geheel is vandalismebestendig en onderhoudsvriendelijk. het deurstation is voorbekabeld en voorzien van de nodige aansluitklemmen en/of pluggen. een stevige metalen of slagvaste kunststof behuizing met afdekplaat omvat het geheel van microfoon, luidspreker en het nodige aantal belknoppen voorzien van naamkaartlensjes uit krasbestendig kunststof. de ingebouwde microfoon is vochtbestendig en zorgt voor een voldoende krachtig signaal; het waterdicht polyester membraan van de luidspreker ondervindt geen hinder van vochtigheid en zorgt voor een goed hoorbare weergave, ook bij veel straatlawaai. specificaties type: opbouwmodule / inbouwmodule (met frontplaat voor microfoon/luidspreker en drukknopmodules) behuizing: roestbestendig metaal / slagvast kunststof / … afdekplaat: inox / slagvast kunststof, kleur … aantal drukknoppen: ... stuks aanvullende specificaties (te schrappen door ontwerper indien niet van toepassing) elke belknop heeft een apart lampje; het naamkaartje wordt langs voren verlicht. de microfoon is voorzien van een voorversterker met volumeregeling (richting binnenpost naar deur). de naamkaartjes moeten vervangen kunnen worden zonder de buitenpost te demonteren. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de kostprijs van de binnenposten.materiaal de transformator van het netvoedingapparaat is vervaardigd volgens de norm nbn en 61558-2-9. de ingangsspanning bedraagt 230 v; de uitgangsspanning bedraagt maximum 24v. het voedingsblok wordt geplaatst in of nabij de schakelinrichting, te bevestigen op een din-rail. alle delen moeten gemakkelijk te bereiken zijn. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de kostprijs van de binnenposten.materiaal de verdeeldozen verbinden de parlofoonkabel van de hoofdleiding of kolom door met die van de verdeelleidingen. de aansluiting gebeurt door middel van klemmen met vijsbevestiging of speciale pluggen. alle hoofdleidingdraden worden aangesloten, ook deze van de niet-gebruikte. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de kostprijs van de binnenposten.materiaal de bekabeling tussen huistelefoons, drukknoppen, netvoedingapparaat en deurstation gebeurt met speciaal hiertoe bestemde kabels, rekening houdend met de afstanden tot de verschillende componenten, in pvc-buizen en/of kabelgoten. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de kostprijs van de binnenposten. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) standaard inbegrepen in de prijs van de te voorziene aansluitpunten. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). standaard inbegrepen in de prijs van de te voorziene aansluitpunten. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van de toestellen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst : forfaitaire hoeveelheid (fh) ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst : pro memorie (pm) ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de kostprijs van de centrale eenheid. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitair hoeveelheid (fh). ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de eenheidsprijs van de afsluitingen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: forfaitaire hoeveelheid (fh) specificaties draaddikte: minimum 1,8 / … mm, treksterkte = minimum 400-500 n/mm² oppervlakte behandeling: verzinkt natuurkleur / verzinkt en groen geplastificeerd (pvc / pe) aantal binddraden: minimum om de 20 / 30 / … cm. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm). inbegrepen in de prijs van de beplantingen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst: pro memorie (pm) inbegrepen in de prijs van de beplantingen. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "aard van de overeenkomst forfaitaire hoeveelheid (fh) ",
+      "ItemId": 0
+    }
+  ]
+}

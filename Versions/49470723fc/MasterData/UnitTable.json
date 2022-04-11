@@ -1,0 +1,772 @@
+{
+  "Units": [
+    {
+      "Id": 0,
+      "Name": "Meter",
+      "Label": "m",
+      "UnitMeasure": 0,
+      "Scale": 1.0
+    },
+    {
+      "Id": 1,
+      "Name": "Decimeter",
+      "Label": "dm",
+      "UnitMeasure": 0,
+      "Scale": 0.1
+    },
+    {
+      "Id": 2,
+      "Name": "Centimeter",
+      "Label": "cm",
+      "UnitMeasure": 0,
+      "Scale": 0.01
+    },
+    {
+      "Id": 3,
+      "Name": "Millimeter",
+      "Label": "mm",
+      "UnitMeasure": 0,
+      "Scale": 0.001
+    },
+    {
+      "Id": 4,
+      "Name": "Kilometer",
+      "Label": "km",
+      "UnitMeasure": 0,
+      "Scale": 1000.0
+    },
+    {
+      "Id": 5,
+      "Name": "Inch",
+      "Label": "in",
+      "UnitMeasure": 0,
+      "Scale": 0.0254
+    },
+    {
+      "Id": 6,
+      "Name": "Foot",
+      "Label": "ft",
+      "UnitMeasure": 0,
+      "Scale": 0.3048
+    },
+    {
+      "Id": 7,
+      "Name": "Square Meter",
+      "Label": "m^2",
+      "UnitMeasure": 1,
+      "Scale": 1.0
+    },
+    {
+      "Id": 8,
+      "Name": "Square Decimeter",
+      "Label": "dm^2",
+      "UnitMeasure": 1,
+      "Scale": 0.01
+    },
+    {
+      "Id": 9,
+      "Name": "Square Centimeter",
+      "Label": "cm^2",
+      "UnitMeasure": 1,
+      "Scale": 0.0001
+    },
+    {
+      "Id": 10,
+      "Name": "Square Millimeter",
+      "Label": "mm^2",
+      "UnitMeasure": 1,
+      "Scale": 1E-06
+    },
+    {
+      "Id": 11,
+      "Name": "Square Kilometer",
+      "Label": "km^2",
+      "UnitMeasure": 1,
+      "Scale": 1000000.0
+    },
+    {
+      "Id": 12,
+      "Name": "Square Inch",
+      "Label": "in^2",
+      "UnitMeasure": 1,
+      "Scale": 0.00064516
+    },
+    {
+      "Id": 13,
+      "Name": "Square Foot",
+      "Label": "ft^2",
+      "UnitMeasure": 1,
+      "Scale": 0.092903
+    },
+    {
+      "Id": 14,
+      "Name": "Cubic Meter",
+      "Label": "m^3",
+      "UnitMeasure": 2,
+      "Scale": 1.0
+    },
+    {
+      "Id": 15,
+      "Name": "Cubic Decimeter",
+      "Label": "dm^3",
+      "UnitMeasure": 2,
+      "Scale": 0.001
+    },
+    {
+      "Id": 16,
+      "Name": "Cubic Centimeter",
+      "Label": "cm^3",
+      "UnitMeasure": 2,
+      "Scale": 1E-06
+    },
+    {
+      "Id": 17,
+      "Name": "Cubic Millimeter",
+      "Label": "mm^3",
+      "UnitMeasure": 2,
+      "Scale": 1E-09
+    },
+    {
+      "Id": 18,
+      "Name": "Cubic Inch",
+      "Label": "in^3",
+      "UnitMeasure": 2,
+      "Scale": 1.6387E-05
+    },
+    {
+      "Id": 19,
+      "Name": "Cubic Foot",
+      "Label": "ft^3",
+      "UnitMeasure": 2,
+      "Scale": 0.0283168
+    },
+    {
+      "Id": 20,
+      "Name": "Kilogram",
+      "Label": "kg",
+      "UnitMeasure": 3,
+      "Scale": 1.0
+    },
+    {
+      "Id": 21,
+      "Name": "Gram",
+      "Label": "g",
+      "UnitMeasure": 3,
+      "Scale": 0.001
+    },
+    {
+      "Id": 22,
+      "Name": "Ton",
+      "Label": "ton",
+      "UnitMeasure": 3,
+      "Scale": 1000.0
+    },
+    {
+      "Id": 23,
+      "Name": "Pound",
+      "Label": "lbs",
+      "UnitMeasure": 3,
+      "Scale": 0.45359237
+    },
+    {
+      "Id": 24,
+      "Name": "Ounce",
+      "Label": "oz",
+      "UnitMeasure": 3,
+      "Scale": 0.028349523125
+    },
+    {
+      "Id": 25,
+      "Name": "Second",
+      "Label": "s",
+      "UnitMeasure": 4,
+      "Scale": 1.0
+    },
+    {
+      "Id": 26,
+      "Name": "Minute",
+      "Label": "minute",
+      "UnitMeasure": 4,
+      "Scale": 60.0
+    },
+    {
+      "Id": 27,
+      "Name": "Hour",
+      "Label": "hour",
+      "UnitMeasure": 4,
+      "Scale": 3600.0
+    },
+    {
+      "Id": 28,
+      "Name": "Day",
+      "Label": "day",
+      "UnitMeasure": 4,
+      "Scale": 86400.0
+    },
+    {
+      "Id": 29,
+      "Name": "Count",
+      "Label": "",
+      "UnitMeasure": 5,
+      "Scale": 1.0
+    }
+  ],
+  "Mapping": [
+    {
+      "ExternalId": "meeteenheid: stuk ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: m2 ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende meter ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 gebouw ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: m3 ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per m2 ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (keukeninstallatie per woning) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (badkamerinstallatie per woning) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: stuk – per woongelegenheid / per toestel ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: stuk – per woongelegenheid / per radiator ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: stuk – per woongelegenheid ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: stuk – per woongelegenheid / per installatie ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per wooneenheid ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per gebouw ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per proef ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid:  per m3 ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per ton ",
+      "ItemId": 22
+    },
+    {
+      "ExternalId": "meeteenheid: lopende m ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per m3\u000b(de wapening wordt gemeten onder 26.11.) ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per kg ",
+      "ItemId": 20
+    },
+    {
+      "ExternalId": "meeteenheid: per m3. \u000beventuele wapening wordt gemeten onder artikel 26.11. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: m3\u000b(wapening wordt gemeten onder artikel 26.11.) ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: m3\u000b(de wapening wordt gemeten onder de artikels 26.11.) ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, alle wapeningen inbegrepen ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: m3/per m2 volgens lengte van de put/per lm volgens grootte van de put ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton\u000b(de wapening wordt gemeten onder artikel 26.11.) ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton. de afwerking van het bovenvlak van de plaat is inbegrepen in de eenheidsprijs.\u000b(de wapening wordt gemeten onder artikel 26.11.) ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton\u000b(de wapening wordt gemeten onder de artikels 26.11.) ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, incl. het voorzien van de uitsparingen in de fundering. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton.\u000beventuele extra wapening in het vulbeton wordt beschreven en gemeten onder artikel 26.11. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende m ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per m³ ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, wapening inbegrepen ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton, wapening inbegrepen ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, incl. het voorzien van de uitsparingen in de betonwanden. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: lm ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per lm ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, inbegrepen bochtstukken, koppel- en eindmoffen, overgangsstukken, …. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: lopende meter ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: prijssupplement gerekend per lopende meter, eventueel opgesplitst volgens muurbreedte. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: prijssupplement gerekend per lopende meter, eventueel opgesplitst volgens dikte en muurbreedte. de hoeveelheden metselwerk worden niet afgetrokken. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: prijssupplement gerekend per lopende meter, eventueel opgesplitst volgens muurbreedte. de hoeveelheden metselwerk worden niet afgetrokken. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: m³ ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: m² ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende m schouwkanaal ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (samengesteld systeem) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per kg.\u000bde volumemassa van het staal wordt bij conventie vastgesteld op 7.850 kg/m³. ",
+      "ItemId": 20
+    },
+    {
+      "ExternalId": "meeteenheid: per kg. ",
+      "ItemId": 20
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton\u000bde wapening wordt beschreven en gemeten onder artikel 26.11 ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton\u000bde wapening wordt beschreven en gemeten onder artikel 26.11. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per traptrede\u000bde wapening wordt beschreven en gemeten onder artikel 26.11. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per m2 beton\u000bde wapening wordt beschreven en gemeten onder artikel 26.11. ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton\u000blet wel: de wapening wordt beschreven en gemeten onder artikel 26.11. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: dm2 ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meeteenheid: dm3 ",
+      "ItemId": 15
+    },
+    {
+      "ExternalId": "meeteenheid: m ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per kg van de te behandelen profielen ",
+      "ItemId": 20
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, opgesplitst per type ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid:\u000b(ofwel) per m³\u000b(ofwel) per stuk ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid:\u000b(ofwel) per kg. de volumemassa van het staal wordt bij conventie vastgesteld op 7.850 kg/m3. enkel de conventionele theoretische massa wordt in rekening gebracht.\u000b(ofwel) per stuk ",
+      "ItemId": 20
+    },
+    {
+      "ExternalId": "meeteenheid: per m²; openingen groter dan 5 m² worden afgetrokken ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per m² ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: lopende meter. de lengte van de dakopstanden wordt in de as gemeten. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: lopende meter. de lengte van de randisolatie wordt in de as gemeten. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per m2, in globaliteit, alle hulpstukken en aansluitingen inbegrepen. ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per m2, in globaliteit, alle hulpstukken en aansluitingen inbegrepen ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per m2, in globaliteit, met inbegrip van alle nok-, windveer-, topgevelstukken, onderstukken, knikstukken, contraknikstukken, bovenstukken, geknikte windveren, flensplaten (dakdoorvoeren), dichtingskammen, dakafstandhouders, goot- en muuraansluitingen, … ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: lopende meter met inbegrip van de verankeringspunten ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: m2 meetcode: netto geprojecteerde oppervlakte. openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per m2, som van de netto oppervlakten van dakvlakken en dakopstanden ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: m2 volgens de dikte van de laag ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (ankerelement) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk volgens afmetingen en/of type ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk . ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: lengte meter ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: kg ",
+      "ItemId": 20
+    },
+    {
+      "ExternalId": "meeteenheid: lengte meter, desgevallend opgesplitst volgens muurbreedte ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: stuk, per te beproeven type schrijnwerkelement (tot volledige voldoening) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende meter uit te bekleden oppervlakte. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, volgens aard en afmetingen. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, ongeacht de aard en afmetingen van het sanitair toestel ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, ongeacht de aard en afmetingen van het sanitair toestel (bad , douche of inbouwreservoir) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, ongeacht de aard en afmetingen van het sanitair toestel (bad, douche of inbouwreservoir) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, ongeacht de aard en afmetingen van het bad of douchetoestel ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per meter ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: globaal per installatie (opgesplitst volgens woningtype / bouwblok) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per installatie (opgesplitst volgens woningtype / bouwblok) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per installatie (stuk volgens woningtype / gebouw) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per installatie ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per collectorgeheel ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per aansluiting ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, volgens type, diameter,… ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, eventueel opgesplitst volgens aard van het toestel ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, opgesplitst volgens type, …. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (installatie) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: globaal per installatie (stuk) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per installatie (stuk, opgesplitst per woningtype / gebouw) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: lm volgens diameter, de leidingen worden gemeten volgens de aslijn ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per lm (alle toebehoren inbegrepen) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, volgens vermogen en type ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: sog ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: meter ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende meter. inbegrepen alle toebehoren, bevestigingsmiddelen, thermische en akoestische isolatie, toezichtluiken, meet- en regelorganen,… ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende m netto uit te voeren lengte gemeten langsheen de as van het schouwkanaal, vanaf het laagst gelegen punt van het onderste element tot het hoogste punt van het bovenste element. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (volledig kanaal). ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende m netto uit te voeren lengte gemeten langsheen de as van het schouwkanaal, vanaf het laagst gelegen punt van het onderste element tot het hoogste punt van het bovenste element ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (volledig kanaal) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende m schouwkanaal, netto uit te voeren lengte gemeten langsheen de as van het schouwkanaal, vanaf het laagst gelegen punt van het onderste element tot het hoogste punt van het bovenste element ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: stuk (per aansluiting) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: stuks ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk complementaire aardverbinding ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid per stuk ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid per stuk, inclusief voedingskabel en inbouwdoos. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, inclusief voedingskabel en inbouwdoos. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, kostprijs van het leidingnet (kabelbuizen, stroomdraden en inbouwdozen) is inbegrepen in de eenheidsprijs per schakelaar. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, opgesplitsts volgens aard ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, opgesplitst volgens aard ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk en per type ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, te plaatsen toestellen ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk ( = per woongelegenheid) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (woongelegenheid) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (per deurpost) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per aansluiting (stuk) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: stuk, per aansluiting ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per kast (stuk) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, opgesplitst volgens type en/of vermogen. ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk, opgesplitst volgens type ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (totale prijs per type liftinstallatie) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid : per stuk (totale prijs per type liftinstallatie) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: m2 / lm ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meeteenheid: per m3 beton. de wapening en de afwerking van het bovenvlak van de plaat zijn inbegrepen in de eenheidsprijs. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meeteenheid: per lopende m, ongeacht recht of gebogen van vorm. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meeteenheid: per stuk (module) ",
+      "ItemId": 29
+    },
+    {
+      "ExternalId": "meeteenheid: stuk. ",
+      "ItemId": 29
+    }
+  ]
+}

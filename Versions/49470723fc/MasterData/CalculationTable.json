@@ -1,0 +1,1034 @@
+{
+  "Calculators": [
+    {
+      "Id": 0,
+      "CalculatorType": 0
+    },
+    {
+      "Id": 1,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.2,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 2,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.5,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 3,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 1.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 4,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 2.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 5,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 1000000.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 6,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.1
+    },
+    {
+      "Id": 7,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.5
+    },
+    {
+      "Id": 8,
+      "CalculatorType": 1,
+      "MinimalOpeningArea": 0.0,
+      "MinimalArea": 0.0
+    },
+    {
+      "Id": 9,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.3,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 10,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.5,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 11,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 1.0,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 12,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.0,
+      "MinimalVolume": 0.01
+    },
+    {
+      "Id": 13,
+      "CalculatorType": 2,
+      "MinimalOpeningArea": 0.0,
+      "MinimalVolume": 0.0
+    },
+    {
+      "Id": 14,
+      "CalculatorType": 3,
+      "Density": 7850.0
+    },
+    {
+      "Id": 15,
+      "CalculatorType": 3,
+      "Density": 7930.0
+    }
+  ],
+  "Mapping": [
+    {
+      "ExternalId": "meetcode: netto te beschermen aantal, ongeacht de diameter van bomen of struiken ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto af te breken oppervlakte ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: enkel funderingsmassieven met een volume groter dan 0,5 m3 mogen in rekening gebracht worden. massieven kleiner dan 0,5 m3 zijn standaard inbegrepen in de aanneming. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto te slopen volume metselwerk. openingen groter dan 1 m2 worden afgetrokken. ",
+      "ItemId": 11
+    },
+    {
+      "ExternalId": "meetcode: netto te slopen volume beton. openingen groter dan 1 m2 worden afgetrokken. ",
+      "ItemId": 11
+    },
+    {
+      "ExternalId": "meetcode: netto te slopen volume houtskeletmuren. openingen groter dan 1 m2 worden afgetrokken. ",
+      "ItemId": 11
+    },
+    {
+      "ExternalId": "meetcode: netto te slopen oppervlakte, ongeacht de dikte. openingen groter dan 1 m2 worden afgetrokken. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto af te breken dakoppervlakte. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto af te breken dakoppervlakte. openingen groter dan 1 m2 worden afgetrokken, doorbrekingen worden niet afgetrokken. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto af te breken dakisolatieoppervlakte. openingen in het isolatievlak groter dan 1 m2 worden afgetrokken, doorbrekingen worden niet afgetrokken. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto af te breken oppervlakte gevelmetselwerk. openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto af te breken oppervlakte. openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto weg te breken oppervlakte volgens de dagmaten ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto af te kappen oppervlakte ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto af te graven oppervlakte. deze oppervlakte wordt berekend door aan de zone van de bebouwde oppervlakte aan alle afmetingen (lengte en breedte) 1 meter toe te voegen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto te nivelleren oppervlakte. deze oppervlakte wordt berekend door aan de zone van de bebouwde oppervlakte aan alle afmetingen (lengte en breedte) 1 meter toe te voegen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: het te meten volume wordt steeds gerekend met rechte wanden en is begrepen tussen de buitenomtrek van de fundering. er wordt geen rekening  gehouden met taluds of meerbreedtes voor werkruimte. de diepte van de uitgraving wordt gerekend tot de funderingsaanzet. \u000bindien de uitgegraven grond gebruikt wordt om weer aan te vullen rondom de constructie, zijn deze wederaanvullingen inbegrepen in de prijs van dit artikel. de afvoer van de overtollige uitgegraven grond wordt apart gemeten onder artikels 10.43. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het te meten volume wordt steeds gerekend met rechte wanden en is begrepen tussen de buitenomtrek van de fundering. er wordt geen rekening  gehouden met taluds of meerbreedtes voor werkruimte. de diepte van de uitgraving wordt gerekend tot de aanzet van de kelder. \u000bindien de uitgegraven grond gebruikt wordt om weer aan te vullen rondom de constructie, zijn deze wederaanvullingen inbegrepen in de prijs van dit artikel. de afvoer van de overtollige uitgegraven grond wordt apart gemeten onder artikels 10.43. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het te meten volume wordt berekend door de breedte van de funderingszool/vorstrand te vermenigvuldigen met de aanzetdiepte van de funderingszool/vorstrand en de lengte. \u000ber wordt geen rekening  gehouden met taluds of gebeurlijke meerbreedtes van de sleuven. meerbreedtes voor bekistingen en bestrijkingen worden evenmin in rekening gebracht bij de berekening van het volume. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het te meten volume wordt berekend door de breedte van de funderingsbalk te vermenigvuldigen met de aanzetdiepte van de funderingsbalk en de lengte. \u000ber wordt geen rekening  gehouden met taluds of gebeurlijke meerbreedtes van de sleuven. meerbreedtes voor bekistingen en bestrijkingen worden evenmin in rekening gebracht bij de berekening van het volume. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het te meten volume wordt berekend door de breedte, gelijk aan de leidingdiameter vermeerderd met 40 cm (20 cm aan elke zijde van de buis) te vermenigvuldigen met de aanzetdiepte van de buis en de lengte. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: theoretisch te hergebruiken volume (opp. x diepte, volgens plannen)\u000bhet hergebruik van uitgegraven grond voor de aanvulling van uitgravingen beschreven in de artikels 10.20. t.e.m. 10.33. is echter inbegrepen in deze uitgravingsartikels 10.20. t.e.m. 10.33. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het volume wordt bepaald volgens de theoretische hoeveelheid grond (volgens de meetcodes van artikel 10.20. t.e.m. 10.33) van deze kwaliteit die uitgegraven moest worden.\u000bna uitgraving en stapeling is het volume van de af te voeren grond groter dan het theoretische volume. dit meervolume kan niet verrekend worden. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het volume wordt bepaald volgens de theoretische hoeveelheid grond (volgens de meetcodes van artikel 10.20. t.e.m. 10.33.) van deze kwaliteit die uitgegraven moest worden.\u000bna uitgraving en stapeling is het volume van de af te voeren grond groter dan het theoretische volume. dit meervolume kan niet verrekend worden. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het volume wordt bepaald volgens de theoretische hoeveelheid grond (volgens de meetcodes van artikel 10.20. t.e.m. 10.33.) van deze kwaliteit die uitgegraven moest worden.\u000bna uitgraving en stapeling is het volume van de af te voeren grond groter dan het theoretische volume. dit meervolume kan niet verrekend worden.\u000bindien de uitgegraven grond naar een top of cgr wordt afgevoerd, is het zeven inbegrepen in artikel 10.43.20. of 10.43.30. en kan dit niet verrekend worden onder 10.44.10. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto te verwijderen volume. de te verwijderen hoeveelheden worden in aanwezigheid van de architect opgemeten. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: er wordt gerekend in aangedamde hoeveelheid, niet in geleverde hoeveelheid. in geval van berekening a.h.v. leveringsbonnen geldt: 1 ton aangevoerde grond ≈ 0,55 m3 aangedamd volume. wederaanvulling sleuven: netto volume, waarbij breedte = breedte van de funderingszool - breedte ondergronds metselwerk hoogte = peil na afgraven van de teelaarde – peil bovenkant funderingszool wederaanvulling rond kelderwanden, liftputwanden, …: netto  volume, waarbij lengte en breedte = 0,50 m buiten de wanden, zonder rekening te houden met taluds. hoogte = peil onderkant vloerplaat boven kelder, liftput, … - aanzetpeil kelder, liftput, … ophogingen tussen funderingen: het volume wordt  begrensd door de binnenomtrek van de omringende wanden. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: er wordt gerekend in aangedamde hoeveelheid, niet in geleverde hoeveelheid. wederaanvulling sleuven: netto volume, waarbij breedte = breedte van de funderingszool - breedte ondergronds metselwerk hoogte = peil na afgraven van de teelaarde – peil bovenkant funderingszool wederaanvulling rond kelderwanden, liftputwanden, …: netto  volume, waarbij lengte en breedte = 0,50 m buiten de wanden, zonder rekening te houden met taluds. hoogte = peil onderkant vloerplaat boven kelder, liftput, … - aanzetpeil kelder, liftput, … ophogingen tussen funderingen: het volume wordt  begrensd door de binnenomtrek van de omringende wanden. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het volume wordt gerekend in verdichte toestand. in geval van berekening a.h.v. leveringsbonnen geldt: 1 ton aangevoerde grond ≈ 0,55 m3 aangedamd volume. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: het volume wordt gerekend in verdichte toestand. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: te behandelen oppervlakte x diepte ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto wandoppervlakte ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto volume ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto lengte aan nominale diameters aan 7850 kg/m3 ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte totale wand ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte totale wand, wapening inbegrepen ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren volume volgens de afmetingen aangeduid op de plannen. verrekening is enkel mogelijk voor de diepte-afmetingen (indien bij uitvoering zou blijken dat de funderingen dieper of minder diep aangezet moeten worden dan voorzien). ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren volume volgens de afmetingen aangeduid op de plannen. de hoogte wordt gemeten tot aan de onderkant van de vloer. openingen met een oppervlakte groter dan 0,30 m² worden afgetrokken. \u000bverrekening is enkel mogelijk voor de diepte-afmetingen (indien bij uitvoering zou blijken dat de funderingen dieper of minder diep aangezet moeten worden dan voorzien). ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto volume doorlopend gemeten over putten of funderingswanden heen gemeten tot onderzijde vloerplaat, het gedeelte van de funderingsbalken boven het niveau onderzijde vloerplaat wordt gemeten als vloer onder artikel 13.50. of hoofdstuk 15 ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto volume, vorstranden inbegrepen ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto volume, gemeten tussen de vloeren. de uitvoering van de voegen is inbegrepen in de eenheidsprijs van het beton, de wapening wordt gemeten onder de artikels 26.11. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, gemeten volgens de as van de wanden. er wordt dus slechts één zijde van de dubbele wanden gemeten. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. alle wapening in de prefab elementen (netwapening, versterkingswapening, tralieliggers, vezelwapening, …) is inbegrepen in de eenheidsprijs van dit artikel. de uitvoering van de voegen is eveneens inbegrepen in de eenheidsprijs van dit artikel ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto volume, gemeten tussen de laagste bovenkant en de onderkant van de prefabschillen, volgens de nominale afmetingen op de plannen. \u000ber wordt geen aftrek voorzien voor het volume van de wapening, doorvoeren, ingestorte leidingen, uitsparingen kleiner dan 0,05 m3, groeven en messingen. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: de lengte van de muren wordt gemeten in de as van de muren, bij kruisingen wordt de dikkere muur doorgemeten. de hoogte wordt gemeten tussen de vloeren. geen enkel volume wordt tweemaal in rekening gebracht. wordt afgetrokken: openingen met een oppervlakte groter dan 0,30 m²; het volume van constructieve elementen zoals balken, … indien deze apart gemeten worden. ",
+      "ItemId": 9
+    },
+    {
+      "ExternalId": "meetcode: de lengte van de muren wordt gemeten in de as van de muren, bij kruisingen wordt de dikkere muur doorgemeten. de hoogte wordt gemeten tussen de vloeren. geen enkel volume wordt tweemaal in rekening gebracht. wordt afgetrokken: openingen met een oppervlakte groter dan 0,30 m²; het volume van constructieve elementen zoals lateien, … indien deze apart gemeten worden. ",
+      "ItemId": 9
+    },
+    {
+      "ExternalId": "meetcode: netto volume, gemeten tussen de vloeren ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, gemeten volgens de as van de wanden. er wordt dus slechts één zijde van de dubbele wanden gemeten. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. alle wapening in de prefab elementen (netwapening, versterkingswapening, tralieliggers, vezelwapening, …) is inbegrepen in de eenheidsprijs van dit artikel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: de lengte van de muren wordt gemeten in de as van de muren, bij kruisingen wordt de dikkere muur doorgemeten. de hoogte wordt gemeten tussen de vloeren. geen enkel volume wordt tweemaal in rekening gebracht. wordt afgetrokken: openingen met een oppervlakte groter dan 0,30 m²; het volume van constructieve elementen zoals lateien, balken, … indien deze apart gemeten worden. ",
+      "ItemId": 9
+    },
+    {
+      "ExternalId": "meetcode: netto volume; hoogte gemeten tot onderkant bovenliggende vloerplaat ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. openingen groter dan 0,5 m² worden afgetrokken.\u000bde oppervlakte van wanden en bodem van eventuele keldergaten of verluchtingsmonden worden meegerekend in de netto uit te voeren oppervlakte. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. openingen groter dan 0,5 m² worden afgetrokken.  de oppervlakte van wanden en bodem van eventuele keldergaten of verluchtingsmonden worden meegerekend in de netto uit te voeren oppervlakte. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. openingen groter dan 0,5 m² worden afgetrokken. de oppervlakte van wanden en bodem van eventuele keldergaten of verluchtingsmonden worden meegerekend in de netto uit te voeren oppervlakte. eventuele door de fabrikant voorgeschreven vereiste verstevigingsweefsels zijn inbegrepen in de eenheidsprijs van dit artikel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte, overlappingen worden niet meegerekend. openingen groter dan 0,5 m² worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. enkel de oppervlakte uitgevoerd zuiveringsbeton wordt gerekend. eventuele meerdikten worden niet in aanmerking genomen voor meerprijs. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren volume volgens de plannen ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. de wapening is inbegrepen in de eenheidsprijs. uitsparingen groter dan 1m2 worden niet meegerekend. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto ontwikkelde oppervlakte zonder rekening te houden met overlappingen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte tussen de funderingsmuren of vorstranden. uitsparingen groter dan 0,5 m2 worden afgetrokken. eventuele randisolaties aan de binnenzijde van de funderingsmuren worden niet afzonderlijk in rekening gebracht, evenals het snijverlies. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte. uitsparingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren hoeveelheid ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto hoeveelheid ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per aansluiting; de buizen en hulpstukken worden gemeten onder de betreffende posten van de rioleringsleidingen. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de lengte van de muren wordt gemeten in de as van de muren, bij kruisingen wordt de dikkere muur doorgemeten. geen enkel volume wordt tweemaal in rekening gebracht. worden afgetrokken: openingen met een oppervlakte groter dan 0,30 m²; het volume van constructieve elementen zoals lateien, balken, … indien deze apart gemeten worden; de opleg van draagvloeren. ",
+      "ItemId": 9
+    },
+    {
+      "ExternalId": "meetcode: de lengte van de muren worden gemeten in de as van de muren, bij kruisingen wordt de dikkere muur doorgemeten. geen enkel volume wordt tweemaal in rekening gebracht. worden afgetrokken: openingen met een oppervlakte groter dan 0,30 m²; het volume van constructieve elementen zoals lateien, balken, … indien deze apart gemeten worden; de opleg van draagvloeren. ",
+      "ItemId": 9
+    },
+    {
+      "ExternalId": "meetcode: de lengte van de muren wordt gemeten in de as van de muren. worden afgetrokken: het volume van constructieve elementen zoals balken, … indien deze apart gemeten worden; de opleg van draagvloeren. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: de lengte van de muren wordt gemeten in de as van de muren, bij kruisingen wordt de dikkere muur doorgemeten. de hoogte wordt gemeten tussen de vloeren. geen enkel volume wordt tweemaal in rekening gebracht. wordt afgetrokken: openingen met een oppervlakte groter dan 0,30 m²; het volume van lateien indien deze apart gemeten worden. ",
+      "ItemId": 9
+    },
+    {
+      "ExternalId": "meetcode: de lengte van de muren wordt gemeten in de as van de muren, bij kruisingen wordt de dikkere muur doorgemeten. de hoogte wordt gemeten tussen de vloeren. geen enkel volume wordt tweemaal in rekening gebracht. openingen met een oppervlakte groter dan 0,30 m² worden afgetrokken. ",
+      "ItemId": 9
+    },
+    {
+      "ExternalId": "meetcode: gemeten volgens netto oppervlakte, uitsparingen groter dan 0,5 m2 worden afgetrokken ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: volgens netto oppervlakte, uitsparingen groter dan 0,5 m2 worden afgetrokken ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: oppervlakte gemeten volgens buitenafmetingen muuroppervlak, alle openingen groter dan 0,5 m2 afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte. alle openingen groter dan 0,2 m2 worden afgetrokken. de dagzijden van openingen worden enkel meegerekend indien hun breedte groter is dan de breedte van de gevelsteen. ",
+      "ItemId": 1
+    },
+    {
+      "ExternalId": "meetcode: netto volume van de steen. stenen kleiner dan 10 dm³ worden als 10 dm³ gemeten. opgelijmde stukken mogen echter niet in rekening worden gebracht bij de bepaling van het volume. ",
+      "ItemId": 12
+    },
+    {
+      "ExternalId": "meetcode: lengte x breedte. stenen kleiner dan 0,10 m² worden als 0,10 m² gemeten. ",
+      "ItemId": 6
+    },
+    {
+      "ExternalId": "meetcode: netto volume. dorpels kleiner dan 10 dm³ worden als 10 dm³ gemeten. ",
+      "ItemId": 12
+    },
+    {
+      "ExternalId": "meetcode: netto volume. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto volume van de steen. stenen kleiner dan 10 dm³ worden als 10 dm³ gemeten. ",
+      "ItemId": 12
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren aantal ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren aantal, bijzondere stukken inbegrepen ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: oppervlakte waaraan esthetische eisen gesteld worden ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto volume, gemeten tussen de vloeren, volgens de nominale afmetingen op de plannen. \u000ber wordt geen aftrek voorzien voor het volume van de wapening, afstandhouders, doorvoeren, ingestorte leidingen, uitsparingen kleiner dan 0,05 m3, hoeklatten, sponningen, groeven en messingen. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, gemeten volgens de as van de wanden. er wordt dus slechts één zijde van de dubbele wanden gemeten. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. alle wapening in de prefab elementen (netwapening, versterkingswapening, tralieliggers, vezelwapening, …) is inbegrepen in de eenheidsprijs van dit artikel. de uitvoering van de voegen is eveneens inbegrepen in de eenheidsprijs van dit artikel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto volume, gemeten tussen vloeren en balken, volgens de nominale afmetingen op de plannen.\u000ber wordt geen aftrek voorzien voor het volume van de wapening, afstandhouders, doorvoeren, ingestorte leidingen, uitsparingen kleiner dan 0,05 m3, hoeklatten, sponningen, groeven en messingen. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto volume volgens de nominale afmetingen op de plannen doorlopend gemeten over dragende kolommen of wanden heen onderhangende balken: gemeten tot onderzijde vloerplaat, het gedeelte van de balken boven het niveau onderzijde vloerplaat wordt gemeten als vloer onder artikel 26.26. en/of  26.36. omgekeerde balken: gemeten vanaf bovenzijde vloerplaat, het gedeelte van de balken onder het niveau bovenzijde vloerplaat wordt gemeten als vloer onder artikel 26.26. en/of  26.36. er wordt geen aftrek voorzien voor het volume van de wapening, afstandhouders, doorvoeren, ingestorte leidingen, uitsparingen kleiner dan 0,05 m3, hoeklatten, sponningen, groeven en messingen. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: volgens het aantal optreden van de trap ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto volume volgens de nominale afmetingen op de plannen oppervlakte gemeten tot aan het buitenvlak van het binnenspouwblad. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. er wordt geen aftrek voorzien voor het volume van de wapening, afstandhouders, hoeklatten, sponningen, groeven en messingen. ",
+      "ItemId": 10
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte volgens de nominale afmetingen op de plannen oppervlakte gemeten tot aan het buitenvlak van het binnenspouwblad. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte volgens de nominale afmetingen op de plannen oppervlakte gemeten tot aan het buitenvlak van het binnenspouwblad. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. alle wapening in de prefab elementen (hoofdwapening, verdeelwapening, versterkingswapening, raveelwapening, tralieliggers, …) is inbegrepen in de eenheidsprijs van dit artikel.\u000blet wel: de hoofdwapening kan verschillen per breedplaat, zie hiervoor de stabiliteitsplannen ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto volume volgens de nominale afmetingen op de plannen oppervlakte gemeten tot aan het buitenvlak van het binnenspouwblad dikte = totale vloerdikte – dikte breedplaten openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. de wapening (voegwapening, bijlegwapening, bovenwapening, verbindingswapening, …) die in de opstortlaag geplaatst wordt, wordt gemeten onder artikel 26.11. ",
+      "ItemId": 10
+    },
+    {
+      "ExternalId": "meetcode: netto volume volgens de nominale afmetingen op de plannen.\u000ber wordt geen aftrek voorzien voor het volume van de wapening, afstandhouders, doorvoeren, ingestorte leidingen, uitsparingen kleiner dan 0,05 m3, hoeklatten, sponningen, groeven en messingen. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto volume volgens de nominale afmetingen op de plannen.\u000ber wordt geen aftrek voorzien voor het volume van de wapening, afstandhouders, doorvoeren, ingestorte leidingen, uitsparingen kleiner dan 0,05 m3, hoeklatten, sponningen, groeven en messingen.\u000balle wapening in de prefabwanden is inbegrepen in de eenheidsprijs van dit artikel. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto volume, gemeten tussen vloeren en balken, volgens de nominale afmetingen op de plannen.\u000ber wordt geen aftrek voorzien voor het volume van de wapening, afstandhouders, doorvoeren, ingestorte leidingen, uitsparingen kleiner dan 0,05 m3, hoeklatten, sponningen, groeven en messingen.\u000balle wapening in de prefab kolommen is inbegrepen in de eenheidsprijs van dit artikel. \u000beventuele consoles op de kolommen,  in beton of in staal, zijn steeds inbegrepen in de eenheidsprijs. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto volume volgens de nominale afmetingen op de plannen.\u000balle wapening in de prefab balken is inbegrepen in de eenheidsprijs van dit artikel.\u000bhet volume beton van eventuele opstort ter plaatse samen met de vloerplaat wordt onder het artikel van de vloerplaat gemeten. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: volgens het aantal trappen (bordessen inbegrepen) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte volgens de nominale afmetingen op de plannen oppervlakte gemeten tot aan het buitenvlak van het binnenspouwblad. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. alle wapening in de welfsels is inbegrepen in de eenheidsprijs van dit artikel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte volgens de nominale afmetingen op de plannen oppervlakte gemeten tot aan het buitenvlak van het binnenspouwblad. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. alle wapening in de welfsels is inbegrepen in de eenheidsprijs van dit artikel. de druklaag is inbegrepen in de eenheidsprijs van dit artikel; de eventuele wapening van de druklaag wordt echter gerekend onder artikel 26.11. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte volgens de nominale afmetingen op de plannen oppervlakte gemeten tot aan het buitenvlak van het binnenspouwblad. openingen, doorvoeren en uitsparingen groter dan 0,50 m2 worden afgetrokken. de druklaag en eventuele wapening is inbegrepen in de eenheidsprijs van dit artikel. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: volgens het aantal balkons ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: aantal te plaatsen luifels ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van de luifels ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: som van de gemiddelde oppervlakten (gemiddelde lengte x gemiddelde breedte) van de te herstellen zones, zijnde de zones waar de wapening is blootgemaakt ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: som van de gemiddelde volumes (gemiddelde lengte x gemiddelde breedte x gemiddelde diepte) van de te herstellen zones, zijnde de zones waar de wapening is blootgemaakt ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto te behandelen oppervlakte ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: de volumemassa van het staal wordt bij conventie vastgesteld op 7.850 kg/m3. enkel de conventionele theoretische massa wordt in rekening gebracht. deze wordt bepaald op basis van de geometrische vorm van de stukken. de uitsnijdingen en openingen worden afgetrokken, behalve de gaten voor de verbindingen en de afschuiningen en laspoortjes voor de lassen. in de berekening van de hoeveelheden wordt een massatoeslag van 10 % voorzien, waarvan enerzijds 5% voor de hulpstukken (kop- en voetplaten, verstijvingsplaten, verbindingselementen, ankerstaven in beton, ...) en anderzijds 5% voor lasnaden, bouten, moeren en rondellen, verbindingsdeuvels, afval en walstolleranties, …. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meetcode: de volumemassa van het staal wordt bij conventie vastgesteld op 7.930 kg/m3. enkel de conventionele theoretische massa wordt in rekening gebracht. deze wordt bepaald op basis van de geometrische vorm van de stukken. de uitsnijdingen en openingen worden afgetrokken, behalve de gaten voor de verbindingen en de afschuiningen en laspoortjes voor de lassen. in de berekening van de hoeveelheden wordt een massatoeslag van 10 % voorzien, waarvan enerzijds 5% voor de hulpstukken (kop- en voetplaten, verstijvingsplaten, verbindingselementen, ankerstaven in beton, ...) en anderzijds 5% voor lasnaden, bouten, moeren en rondellen, verbindingsdeuvels, afval en walstolleranties, …. ",
+      "ItemId": 15
+    },
+    {
+      "ExternalId": "meetcode: de volumemassa van het staal wordt bij conventie vastgesteld op 7.850 kg/m3. enkel de conventionele theoretische massa wordt in rekening gebracht. deze wordt bepaald op basis van de geometrische vorm van de stukken. de uitsnijdingen en openingen worden afgetrokken, behalve de gaten voor de verbindingen en de afschuiningen en laspoortjes voor de lassen. in de berekening van de hoeveelheden wordt een massatoeslag van 10 % voorzien, waarvan enerzijds 5% voor de hulpstukken (kop- en voetplaten, verstijvingsplaten, verbindingselementen, ankerstaven in beton, ...) en anderzijds 5% voor lasnaden, bouten, moeren en rondellen, verbindingsdeuvels, afval en walstolleranties, …. \u000bde kolommen worden gemeten tussen de balken en/of vloeren. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meetcode: de volumemassa van het staal wordt bij conventie vastgesteld op 7.930 kg/m3. enkel de conventionele theoretische massa wordt in rekening gebracht. deze wordt bepaald op basis van de geometrische vorm van de stukken. de uitsnijdingen en openingen worden afgetrokken, behalve de gaten voor de verbindingen en de afschuiningen en laspoortjes voor de lassen. in de berekening van de hoeveelheden wordt een massatoeslag van 10 % voorzien, waarvan enerzijds 5% voor de hulpstukken (kop- en voetplaten, verstijvingsplaten, verbindingselementen, ankerstaven in beton, ...) en anderzijds 5% voor lasnaden, bouten, moeren en rondellen, verbindingsdeuvels, afval en walstolleranties, …. \u000bde kolommen worden gemeten tussen de balken en/of vloeren. ",
+      "ItemId": 15
+    },
+    {
+      "ExternalId": "meetcode: de volumemassa van het staal wordt conventioneel vastgesteld op 7.850 kg/m3. enkel de conventionele theoretische massa wordt in rekening gebracht. deze wordt bepaald door berekening op basis van de stuklijsten opgemaakt door de aannemer in overeenstemming met de uitvoeringstekeningen. er wordt uitsluitend rekening gehouden met de geometrische vorm van de stukken. de uitsnijdingen en openingen worden niet afgetrokken. geen enkele massatoeslag voor lasnaden, bouten, moeren en rondellen, verbindingsdeuvels, afval en walstoleranties wordt in rekening gebracht. \u000bde nodige windverbanden maken steeds deel uit van de eenheidsprijs voor dit artikel.\u000bde gordingen die op de spanten geplaatst worden, worden in een apart artikel opgemeten. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meetcode: volgens stuklijst – opgesplitst per type of bouwelement ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de volumemassa van het staal wordt conventioneel vastgesteld op 7.850 kg/m3. enkel de conventionele theoretische massa wordt in rekening gebracht. er wordt uitsluitend rekening gehouden met de geometrische vorm van de stukken. de uitsnijdingen en openingen worden niet afgetrokken. ",
+      "ItemId": 14
+    },
+    {
+      "ExternalId": "meetcode: de volumemassa van het staal wordt conventioneel vastgesteld op 7.930 kg/m3. enkel de conventionele theoretische massa wordt in rekening gebracht. er wordt uitsluitend rekening gehouden met de geometrische vorm van de stukken. de uitsnijdingen en openingen worden niet afgetrokken. ",
+      "ItemId": 15
+    },
+    {
+      "ExternalId": "meetcode: aantal spandraadconstructies, opgesplitst per type ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de kolommen worden gemeten tussen de balken en/of de vloeren. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode:\u000bzijn inbegrepen in de prijs: alle voorbereidende werk- en productietekeningen de binnen en buitenbeplatingen grond-, koppel- en stelregels het kaderwerk (stijlen, onder- en bovenregels) alle extra houten stijlen voor verticale en horizontale versterkingen voor keukenkasten,  doorgaande stijlen naast ramen. alle lateien die niet opgenomen zijn in de studie van de ingenieur (cfr. artikel 28.11.30.) ingewerkte metalen, houten of lvl-balken die niet opgenomen zijn in de studie van de ingenieur (balken die wel opgenomen zijn in de studie van de ingenieur worden beschreven onder 28.22.) ingewerkte metalen, houten of gelamelleerde kolommen die niet opgenomen zijn in de studie van de ingenieur (kolommen die wel opgenomen zijn in de studie van de ingenieur worden beschreven onder 28.24.) de isolatie tussen de stijlen in voorkomend geval folies de eventuele prefabricatie en montage en alle hierbij horende werken en leveringen de loze buizen voor elektriciteitsvoorzieningen het laten van openingen in de wand en het dichtmaken achteraf opleg- en verbindingselementen (metalen schoenen, verankeringsijzers, schroefdraadstrangen, bandijzer, nagels, bouten, schroeven, vijzen, l-ijzers voor gevelmetselwerk, …) beschermingsmaatregelen ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode:\u000bzijn inbegrepen in de prijs: alle voorbereidende werk- en productietekeningen de binnen en buitenbeplatingen grond-, koppel- en stelregels het kaderwerk (stijlen, onder- en bovenregels) alle extra houten stijlen voor verticale en horizontale versterkingen voor keukenkasten,  doorgaande stijlen naast ramen. alle lateien die niet opgenomen zijn in de studie van de ingenieur (cfr. artikel 28.11.30.) ingewerkte metalen, houten of lvl-balken die niet opgenomen zijn in de studie van de ingenieur (balken die wel opgenomen zijn in de studie van de ingenieur worden beschreven onder 28.22.) ingewerkte metalen, houten of gelamelleerde kolommen die niet opgenomen zijn in de studie van de ingenieur (kolommen die wel opgenomen zijn in de studie van de ingenieur worden beschreven onder 28.24.) de isolatie tussen de stijlen in voorkomend geval folies de eventuele prefabricatie en montage en alle hierbij horende werken en leveringen de loze buizen voor elektriciteitsvoorzieningen het laten van openingen in de wand en het dichtmaken achteraf opleg- en verbindingselementen (metalen schoenen, verankeringsijzers, schroefdraadstrangen, bandijzer, nagels, bouten, schroeven, vijzen, …) beschermingsmaatregelen ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode:\u000bzijn inbegrepen in de prijs: alle voorbereidende werk- en productietekeningen de binnen en buitenbeplatingen grond-, koppel- en stelregels het kaderwerk (stijlen, onder- en bovenregels) alle extra houten stijlen voor verticale en horizontale versterkingen voor keukenkasten, … . alle lateien die niet opgenomen zijn in de studie van de ingenieur (cfr. artikel 28.11.30.) ingewerkte metalen, houten of lvl-balken die niet opgenomen zijn in de studie van de ingenieur (balken die wel opgenomen zijn in de studie van de ingenieur worden beschreven onder 28.22.) ingewerkte metalen, houten of gelamelleerde kolommen die niet opgenomen zijn in de studie van de ingenieur (kolommen die wel opgenomen zijn in de studie van de ingenieur worden beschreven onder 28.24.) de isolatie tussen de stijlen in voorkomend geval folies de eventuele prefabricatie en montage en alle hierbij horende werken en leveringen de loze buizen voor elektriciteitsvoorzieningen het laten van openingen in de wand en het dichtmaken achteraf opleg- en verbindingselementen (metalen schoenen, verankeringsijzers, schroefdraad-stangen, bandijzer, nagels, bouten, schroeven, vijzen, …) beschermingsmaatregelen ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, gemeten tot aan het buitenvlak van de houtskeletwand\u000bzijn inbegrepen in de prijs alle voorbereidende werk- en productietekeningen de dragende balken en eventuele dwarse verstijvingen de boven- en onderbeplatingen de eventuele isolatie tussen de vloerbalken de eventuele prefabricatie en montage en alle hierbij horende werken en leveringen het laten en/of maken van openingen in de vloer en het dichtmaken achteraf opleg- en verbindingselementen (metalen schoenen, verankeringsijzers, schroefdraadstangen, bandijzer, nagels, bouten, schroeven, vijzen) de eventuele folies ter hoogte van de kopse kanten van de vloer beschermingsmaatregelen niet inbegrepen in de prijs zijn de eventuele dekvloer, akoestische isolatie bovenop de draagvloer en de vloerafwerking. hiervoor wordt verwezen naar de desbetreffende artikels uit deel 5. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte\u000bzijn inbegrepen in de prijs: alle voorbereidende werk- en productietekeningen de spanten en eventuele dwarse verstijvingen de eventuele prefabricatie en montage en alle hierbij horende werken en leveringen de tengel- en panlatten het dampscherm en onderdak de isolatie tussen de spanten de regelstructuur voor de binnenafwerking de binnenbeplating het maken van eventuele dakdoorgangen het uitvoeren van eventuele randafwerkingen opleg- en verbindingselementen beschermingsmaatregelen niet inbegrepen in de prijs zijn de eventuele isolatie bovenop de dakstructuur, dakbedekking, goten, …. hiervoor wordt verwezen naar hoofdstuk 31 en volgende. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte\u000bzijn inbegrepen in de prijs: alle voorbereidende werk- en productietekeningen de gordingen en het keperwerk, incl. eventuele verstijvingen de tengel- en panlatten het dampscherm en onderdak de isolatie tussen de kepers en gordingen de regelstructuur voor de binnenafwerking de binnenbeplating het maken van eventuele dakdoorgangen het uitvoeren van eventuele randafwerkingen opleg- en verbindingselementen beschermingsmaatregelen niet inbegrepen in de prijs zijn de eventuele isolatie bovenop de dakstructuur, dakbedekking, goten, …. hiervoor wordt verwezen naar hoofdstuk 31 en volgende. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte\u000bzijn inbegrepen in de prijs: alle voorbereidende werk- en productietekeningen de prefabricatie en montage en alle hierbij horende werken en leveringen de tengel- en panlatten het dampscherm en onderdak de isolatie tussen de draagconstructie de regelstructuur voor de binnenafwerking de binnenbeplating het maken van eventuele dakdoorgangen het uitvoeren van eventuele randafwerkingen opleg- en verbindingselementen beschermingsmaatregelen niet inbegrepen in de prijs zijn de eventuele isolatie bovenop de dakstructuur, dakbedekking, goten, …. hiervoor wordt verwezen naar hoofdstuk 31 en volgende. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, gemeten tot aan het buitenvlak van de houtskeletwand.\u000bzijn inbegrepen in de prijs: alle voorbereidende werk- en productietekeningen de dragende balken en eventuele dwarse verstijvingen de boven- en onderbeplatingen eventuele hellingsspieën de eventuele prefabricatie en montage en alle hierbij horende werken en leveringen de eventuele isolatie tussen de draagbalken het maken van eventuele dakdoorgangen het uitvoeren van eventuele randafwerkingen met af- en uitrondingen vereist voor het naderhand aanbrengen van de afdichting opleg- en verbindingselementen (metalen schoenen, verankeringsijzers, schroefdraadstangen, bandijzer, nagels, bouten, schroeven, vijzen) de eventuele folies ter hoogte van de kopse kanten van de roostering beschermingsmaatregelen niet inbegrepen in de prijs zijn de eventuele isolatie bovenop de dakstructuur, dakdichting, ballast, …. hiervoor wordt verwezen naar de desbetreffende artikels uit deel 3. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: geheel van de houten dakstructuur per woning ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: nominale ongeschaafde secties van de te gebruiken onderdelen. het globale aantal m3 voor de hele dakconstructie wordt onder deze post berekend. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: nominale secties van de ongeschaafde muurplaten. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: nominale secties van de ongeschaafde balken. de lassen en overlappingen worden niet meegerekend. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: geheel van de gordingen per woning ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: geheel van de keperspanten per woning ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per spant ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto dakoppervlakte gemeten vanaf de onderzijde, zonder rekening te houden met overlappingen. openingen kleiner dan 1m2 worden niet afgetrokken. de tengellatten zijn in de eenheidsprijs begrepen. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van het te isoleren dakvlak, zonder aftrek van tussenliggende draagstructuur (kepers / spanten). eventuele opstanden tegen wanden en balken worden niet in rekening gebracht, het snijverlies evenmin. het staat de aannemer hiertoe vrij de meest gunstige afmetingen te gebruiken, in zover overal een goede aansluiting gewaarborgd blijft. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van het te isoleren dakvlak, zonder aftrek van tussenliggende draagstructuur (kepers / spanten). eventuele opstanden tegen wanden en balken worden niet in rekening gebracht, het snijverlies evenmin. het staat de aannemer hiertoe vrij de meest gunstige  plaatafmetingen te gebruiken, in zover overal een goede aansluiting gewaarborgd blijft. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van het te isoleren dakvlak. eventuele opstanden tegen wanden en balken worden niet in rekening gebracht, het snijverlies evenmin. het staat de aannemer hiertoe vrij de meest gunstige afmetingen te gebruiken, in zover overal een goede aansluiting gewaarborgd blijft. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van het te isoleren dakvlak. eventuele opstanden tegen wanden en balken worden niet in rekening gebracht ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van het te isoleren dakoppervlak. het omplooien ter hoogte van balkranden en wanden, evenals de snijverliezen en overlappen worden niet in rekening gebracht. alle hulpmiddelen zijn inbegrepen in de prijs. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto dakoppervlakte. de te dekken oppervlakte moet worden gemeten in het vlak aan de onderzijde van de dakbedekking. openingen van kleiner dan 1m2 worden niet afgetrokken. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto dakoppervlakte ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: toebehoren zoals ladderhaken, speciale stukken, … ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto dakoppervlakte. alle openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, alle openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto geprojecteerde oppervlakte. openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte. openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto geprojecteerde oppervlakte. openingen groter dan 1m2 worden afgetrokken. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. uitsparingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte gemeten als de horizontale projectie tussen de dakopstanden. uitsparingen kleiner dan 1m2 worden niet afgetrokken. de eventuele verticale isolatiestroken tegen dakopstanden en/of dakranden worden ook in dit artikel gerekend en zijn steeds inbegrepen in de prijs. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto horizontaal geprojecteerde dakoppervlakte. openingen met een dagmaat kleiner dan 1 m2 worden niet afgetrokken. dakopstanden worden niet afzonderlijk opgemeten en zijn in de eenheidsprijs begrepen ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: dakvlakken: netto horizontaal geprojecteerde dakoppervlakte. openingen met een dagmaat kleiner dan 1 m2 worden niet afgetrokken. dakopstanden: netto beklede oppervlakte van de verticale dakopstanden (dakranden, schouw- & muuropstanden, …) gemeten vanaf de snijlijn met het dakvlak. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto te belasten dakoppervlakte. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto dakoppervlakte. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: de horizontaal geprojecteerde oppervlakte van de dakvlakken, openingen met dagmaat kleiner dan 1 m2 worden niet afgetrokken. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: opgegeven opmetingen overeenkomstig leverbare standaardafmetingen. op de opgegeven afmetingen kan, in functie van het beschikbare gamma van verschillende fabrikanten een verschil tot + 2 cm worden aanvaard. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: opgegeven opmetingen overeenkomstig leverbare standaardafmetingen.  op de opgegeven afmetingen kan, in functie van het beschikbare gamma van verschillende fabrikanten een verschilt tot + 2 cm worden aanvaard. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de opgegeven opmetingen zijn de dagmaten van de koepel gemeten aan de bovenkant van de opstand. inbegrepen alle hulpstukken en bevestigingsmiddelen. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: opgegeven opmetingen overeenkomstig leverbare standaardafmetingen ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de opgegeven afmetingen zijn de dagmaten van de lichtstraat gemeten aan de bovenkant van de opstand.  inbegrepen alle hulpstukken en bevestigingsmiddelen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: de opgegeven opmetingen zijn de dagmaten van de lichtstraat gemeten aan de bovenkant van de opstand. inbegrepen alle hulpstukken en bevestigingsmiddelen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: werkelijk te dekken oppervlakte zonder rekening te houden met de voorgeschreven overlapping. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, gemeten als gemiddelde breedte van het ontwikkelde bekledingsmateriaal, vermenigvuldigd met de gootlengte, gemeten op de buitenrand van de goot. de afmetingen worden doorgemeten over uitzettingsvoegen, overloopleidingen e.d. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van alle vaste ramen, zonder onderscheid in type. de afmetingen worden bepaald aan de hand van de dagopeningen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van alle draairamen, zonder onderscheid in type. de afmetingen worden bepaald aan de hand van de dagopeningen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van alle schuiframen, zonder onderscheid in type. de afmetingen worden bepaald aan de hand van de dagopeningen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van alle buitendeuren, zonder onderscheid in type. de afmetingen worden bepaald aan de hand van de dagopeningen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte van alle vast ramen, zonder onderscheid in type. de afmetingen worden bepaald aan de hand van de dagopeningen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, alle openingen groter dan 0,5 m2 worden afgetrokken. de dagkanten van eventuele openingen worden indien uitbekleed met hetzelfde materiaal ook meegerekend. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: werkelijk te dekken oppervlakte zonder rekening te houden met de voorgeschreven overlapping, alle openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, alle openingen groter dan 0,5 m2 worden afgetrokken. de dagzijden van de openingen en vensters en de onderzijde van de lateien worden enkel meegerekend (netto-oppervlakte) indien hun breedte groter is dan de totaaldikte van de opbouw van de gevelbekleding. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte gemeten aan het buitenvlak van de gevel. alle openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte gemeten aan het buitenvlak van de gevel. alle openingen groter dan 0,5 m2 worden afgetrokken. te bepleisteren dagzijden van openingen en vensters worden ook in rekening gebracht. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: bordessen, treden, borstweringen, handgrepen en bevestiging aan ruwbouw en/of fundering inbegrepen. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, alle openingen groter dan 0,5 m2 worden afgetrokken. de pleisterwerken zijn niet vatbaar voor verrekeningen ook niet in de dikte. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: alle aan te pleisteren openingen van ramen worden vol gerekend, ter compensatie voor het rondom aanpleisteren van de dagkanten. niet aan te pleisteren openingen (groter dan 0,5 m2) worden daarentegen afgetrokken (bijv. binnendeuren die afgewerkt worden met een omlijsting of ramen en deuren uitbekleed met plaatmateriaal). de pleisterwerken zijn niet vatbaar voor verrekeningen ook niet in de dikte. ",
+      "ItemId": 5
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, uitsparingen groter dan 0,5 m2 worden afgetrokken. de pleisterwerken zijn niet vatbaar voor verrekeningen ook niet in de dikte. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte.  oppervlakten kleiner dan 0,5 m2 worden gerekend als 0,5 m2 ",
+      "ItemId": 7
+    },
+    {
+      "ExternalId": "meetcode: netto wandoppervlakte. openingen groter dan 0,50 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto plafondoppervlakte. openingen van daklichtopeningen worden niet afgetrokken ter compensatie van de uitbekleding van de daglichtopeningen, inbegrepen in deze post. ",
+      "ItemId": 5
+    },
+    {
+      "ExternalId": "meetcode: netto plafondoppervlakte. openingen groter dan 0,50 m2 worden afgetrokken. uitbekleding van de daglichtopeningen wordt afzonderlijk gerekend in artikel 51.52. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto plafondoppervlakte. openingen groter dan 0,50 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte, gemeten tussen de naakte muren. de randisolaties worden niet afzonderlijk in rekening gebracht. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte, gemeten tussen de naakte muren. deurtussenruimten worden meegerekend. uitsparingen groter dan 0,5 m2 worden afgetrokken. de randisolaties worden niet afzonderlijk in rekening gebracht. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte gemeten tussen de onafgewerkte muren. de oppervlakten worden over de voegen en naden heen gemeten. in hetzelfde materiaal uitgevoerde deurtussenruimten worden meegerekend. uitsparingen groter dan 0,50 m2 worden afgetrokken. de eenheidsprijs omvat alle werken en leveringen tot het bekomen van een afgewerkte bedrijfsvloer, met inbegrip van de vochtwerende lagen, de wapeningen, de rand- en uitzettingsvoegen, het inwerken van eventuele klok- en vloerroosters, … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte gemeten tussen de onafgewerkte muren. de oppervlakten worden over de voegen en naden heen gemeten. in hetzelfde materiaal uitgevoerde deurtussenruimten worden meegerekend. uitsparingen groter dan 0,50 m2 worden afgetrokken. de eenheidsprijs omvat alle werken en leveringen tot het bekomen van een afgewerkte bedrijfsvloer, met inbegrip van de eventuele vochtwerende lagen, de rand- en uitzettingsvoegen, het inwerken van eventuele klok- en vloerroosters, de eventuele afwerklagen,  … ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte gemeten tussen de onafgewerkte muren. de oppervlakten worden over de voegen en naden heen gemeten. mee betegelde deurtussenruimten worden meegerekend. openingen en onderbrekingen groter dan 0,50 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte gemeten tussen de onafgewerkte muren. de oppervlakten worden over de voegen en naden heen gemeten. mee betegelde deurtussenruimten worden meegerekend. openingen en onderbrekingen groter dan 0,50m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte gemeten tussen de onafgewerkte muren, incl. de deurtussenruimten (behalve indien tussendorpels apart gemeten worden onder artikel 53.50.). openingen en onderbrekingen groter dan 0,50 m² worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. openingen groter dan 0,5 m2 worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte; stukken kleiner dan 10 dm² worden gerekend als 10 dm² ",
+      "ItemId": 6
+    },
+    {
+      "ExternalId": "meetcode: per trede, incl. bijhorende plinten en stootborden ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: deurkozijn, inclusief schootgaten met een metalen dekplaatje en ophangingen ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: deurbladen met inbegrip van het hang- en sluitwerk, eventuele beglazingen, … ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: deurgeheel, inclusief kozijnen, deurbladen, deklijsten, hang- en sluitwerk en toebehoren tot een afgewerkt geheel in overeenstemming met de attestering. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: dubbele schuifdeuren worden gerekend als twee stuks ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: inclusief schuifsysteem, afdeklijsten, hang- en sluitwerk en toebehoren ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per geheel, inclusief hang- en sluitwerk ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, inclusief hang- en sluitwerk en beglazing ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: per deurset, inclusief bevestigingsmiddelen ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per tweezijdige deurvleugelset ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per deur ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per deurset ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per verdieping, tussenbordessen, leuningen en randafwerkingen inbegrepen ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de eenheidsprijs omvat de trap met mechanisme, het zolderluik en de randafwerking ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: volgens keukentype ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: volgens type ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per deurstation, ongeacht het aantal bellen ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per brievenbuskastje ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per installatie ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per collectorgeheel (aan- en afvoer) ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per kraanset / verwarmingslichaam ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto aantal ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: aantal stuks ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per wooneenheid ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de bijhorende lampen en eventuele recyclagebijdrage zijn inbegrepen in de opgegeven eenheidsprijs van de toestellen. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de bijhorende lampen en recyclagebijdrage zijn inbegrepen in de prijs van de toestellen. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de bijhorende lampen en recyclagebijdrage zijn inbegrepen in de prijs van de toestellen ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: de bijhorende lampen, eventuele recyclagebijdrage en reglementair te voorziene pictogrammen, zijn inbegrepen in de opgegeven eenheidsprijs per toestel ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: netto te schilderen oppervlakte ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto te schilderen oppervlakte. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto te schilderen oppervlakte / lengte. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto te behandelen oppervlakken. uitsparingen kleiner dan 1 m2 worden niet afgetrokken. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte zonder rekening te houden met snijverlies of overlappingen. ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte, gemeten aan de bovenkant van de fundering. uitsparingen kleiner dan 2,00 m2 worden niet afgetrokken. ",
+      "ItemId": 4
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte. uitsparingen kleiner dan 1 m2 worden niet afgetrokken. de rand-, scheidings- en uitzetvoegen zijn inbegrepen. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto uit te voeren oppervlakte, zonder rekening te houden met de tonronde of helling. uitsparingen kleiner dan 1 m2 worden niet afgetrokken. ",
+      "ItemId": 3
+    },
+    {
+      "ExternalId": "meetcode: netto oppervlakte, gemeten over de voegen heen. uitsparingen groter dan 0,5 m² worden afgetrokken. ",
+      "ItemId": 2
+    },
+    {
+      "ExternalId": "meetcode: netto te verwerken volume ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto te leveren volume ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode: netto in te werken of uit te strooien hoeveelheid. ",
+      "ItemId": 13
+    },
+    {
+      "ExternalId": "meetcode netto aan te leggen oppervlakte van de grasmat ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: netto aan te leggen oppervlakte van de grasmat ",
+      "ItemId": 8
+    },
+    {
+      "ExternalId": "meetcode: per boom. ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per boomrooster, incl. alle bijhorende werken ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: per boom ",
+      "ItemId": 0
+    },
+    {
+      "ExternalId": "meetcode: som van de te scheren bovenvlakken en zijvlakken ",
+      "ItemId": 8
+    }
+  ]
+}
